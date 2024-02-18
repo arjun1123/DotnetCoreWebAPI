@@ -19,6 +19,7 @@ in ConfigureServices method of Startup class file.
 o	Future improvements if given more time:
 
 Unit testing code for api.
+
 API key/ JWT key authentication for accessing all api.
 
 
