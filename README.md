@@ -3,7 +3,7 @@ Arjun Dubey .NET Developer Take-Home Assignment
 
 o	How to run the project:
 
-Step 1 : Open the DotnetArjunTakeHomeAssignment.sln file in Visual Studio 19
+Step 1 : Download and extract the rar file to open the DotnetArjunTakeHomeAssignment.sln file in DotnetArjunTakeHomeAssignment folder with Visual Studio 19
 
 Step 2 : From Debug Menu on top select "Start Debugging" option or presss F5 key.
 
